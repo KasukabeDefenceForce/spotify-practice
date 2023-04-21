@@ -1,3 +1,12 @@
+# Introduction
+This is a react typescript project which uses the spotify API to fetch and then display the cover art, artist name and the track name to the user. The code sets up the client credentials Oauth grant to access the data. Types have been defined for each variable used in order to have a more organized code.
+The project uses swiper module to display all the contents in a carousel.
+
+# TO-DO
+Set up the project for
+- implicit grant request
+- refresh token
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
